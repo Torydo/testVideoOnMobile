@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbcc34e1.chunk.css",
+    "main.js": "/static/js/main.18e1b6ea.chunk.js",
+    "main.js.map": "/static/js/main.18e1b6ea.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.5cd7348e.chunk.js": "/static/js/2.5cd7348e.chunk.js",
+    "static/js/2.5cd7348e.chunk.js.map": "/static/js/2.5cd7348e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b31d36402b495c33e3122fc127953e6e.js": "/precache-manifest.b31d36402b495c33e3122fc127953e6e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dbcc34e1.chunk.css.map": "/static/css/main.dbcc34e1.chunk.css.map",
+    "static/media/apple.svg": "/static/media/apple.75677d54.svg"
+  }
+}
